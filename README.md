@@ -14,7 +14,7 @@ These characteristics involve:
 - `EcologicalType`
 - `HowEdible`
 
-:open_file_folder: Wiki.ipynb and Pleurotus pulmonarius(Wiki).csv are the two files concerning this task
+:open_file_folder: Wiki.ipynb[scripts] and Pleurotus pulmonarius(Wiki).csv[data] are the two files concerning this task
 
 #### 2) Extracting a few characteristics of species in the genus Clavulinopsis from MushroomExpert.
 These characteristics involve:
@@ -22,7 +22,7 @@ These characteristics involve:
 - `Ecology`
 - `Odor and Taste`
 
-:open_file_folder: MushroomExpert.ipynb and Clavulinopsis(MushroomExpert).csv are the two files concerning this task
+:open_file_folder: MushroomExpert.ipynb[scripts] and Clavulinopsis(MushroomExpert).csv[data] are the two files concerning this task
 
 ### 📋 Requirements:
 requirements.txt serve as a list of items to be installed by pip
